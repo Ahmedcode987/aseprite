@@ -6,7 +6,7 @@
 
 #ifdef HAVE_CONFIG_H
 #include "config.h"
-#endif
+#endi
 
 #include "app/pref/preferences.h"
 #include "app/ui/alpha_entry.h"
